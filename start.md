@@ -9,6 +9,7 @@ Text to show before all the stories.
 
 # Section 1
 https://github.com/teebarjunk/teststory
+https://rentry.co/92ygp
 
 # Another section
 Text in section 2.
